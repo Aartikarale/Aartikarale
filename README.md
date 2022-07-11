@@ -11,8 +11,6 @@
 
 
 
-### 🔭 **Technology Stack**
-
 #### **Languages**:
 
  
